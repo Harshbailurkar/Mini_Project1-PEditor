@@ -6,3 +6,6 @@ reqirement:
 - python
 - streamlit==1.8.0 https://pypi.org/project/streamlit/
 - pdfminer==20191125  https://pypi.org/project/pdfminer/
+
+To run:
+>> PEditor.py
