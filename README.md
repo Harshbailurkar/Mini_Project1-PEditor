@@ -8,4 +8,4 @@ reqirement:
 - pdfminer==20191125  https://pypi.org/project/pdfminer/
 
 To run:
->>PEditor.py
+>> PEditor.py
